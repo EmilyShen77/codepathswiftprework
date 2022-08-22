@@ -28,17 +28,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+http://g.recordit.co/2UClLGPDNE.gif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I mainly had challenges getting used to using Swift, as I previously haven't used it before. However, it was a very enjoyable and interesting project, and I am excited to create more apps in Swift!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
